@@ -1,6 +1,6 @@
 # Vite React TypeScript Boilerplate
 
-This is a boilerplate project built with Vite.js, integrating React and TypeScript. It comes with React Router Dom configured for seamless routing and Chakra UI installed for a responsive design.
+This is a boilerplate project built with Vite.js, integrating React and TypeScript. It comes with React Router Dom configured for seamless routing and Chakra UI installed for a responsive design in personal study projects.
 
 ## About the Boilerplate
 
